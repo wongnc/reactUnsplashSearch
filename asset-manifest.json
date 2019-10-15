@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactUnsplashSearch/static/css/main.b782cccd.chunk.css",
+    "main.js": "/reactUnsplashSearch/static/js/main.fa2161a9.chunk.js",
+    "main.js.map": "/reactUnsplashSearch/static/js/main.fa2161a9.chunk.js.map",
+    "runtime-main.js": "/reactUnsplashSearch/static/js/runtime-main.55db505a.js",
+    "runtime-main.js.map": "/reactUnsplashSearch/static/js/runtime-main.55db505a.js.map",
+    "static/js/2.26c77a88.chunk.js": "/reactUnsplashSearch/static/js/2.26c77a88.chunk.js",
+    "static/js/2.26c77a88.chunk.js.map": "/reactUnsplashSearch/static/js/2.26c77a88.chunk.js.map",
+    "index.html": "/reactUnsplashSearch/index.html",
+    "precache-manifest.a906a73a0787f8568bb06b6e47d79aa5.js": "/reactUnsplashSearch/precache-manifest.a906a73a0787f8568bb06b6e47d79aa5.js",
+    "service-worker.js": "/reactUnsplashSearch/service-worker.js",
+    "static/css/main.b782cccd.chunk.css.map": "/reactUnsplashSearch/static/css/main.b782cccd.chunk.css.map"
+  }
+}
